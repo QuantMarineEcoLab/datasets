@@ -12,6 +12,7 @@ Skip to: [Weather](#weather), [Misc.](#misc)
 
 --- 
 
+
 ## Environmental science
 
 ---
@@ -47,9 +48,20 @@ Skip to: [Weather](#weather), [Misc.](#misc)
 
 
 
+---
+
 ## Misc.
 
 - [Gapminder](https://www.gapminder.org/data/) - various longitudinal, global datasets covering things like life expectancy, GDP, fertility, life expectancy, and child mortality
 - [Our World in Data](https://ourworldindata.org/search) - many datasets covering many topics such as health, education, environment, war, demographics, and democracy. Generally global in nature
+
+---
+
+
+## Other compilations of datasets
+
+- [Google dataset search tool](https://datasetsearch.research.google.com/)
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+- [Social science datasets](https://github.com/toddrjones/datasets)
 
 ---
