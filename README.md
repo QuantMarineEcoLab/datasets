@@ -1,23 +1,47 @@
 # Datasets for research and teaching in environmental science, ecology, and ocean science
 
-This is a compilation of free datasets that we hope can be useful to students, professors, and others for research and teaching. The original motivation comes from our experience teaching data science courses, with student projects, and the excellent [Github repository on social science datasets](https://github.com/toddrjones/datasets) compiled by [Todd Jones](https://www.toddrjones.com/).
+This is a compilation of free datasets that we hope can be useful to students, professors, and others for research and teaching. The original motivation comes from our experience teaching data science courses, with student projects, and the excellent [Github repository on social science datasets](https://github.com/toddrjones/datasets) compiled by [Todd Jones](https://www.toddrjones.com/). We focus mostly on relatively clean datasets that are useful for student projects and teaching, but all suggestions are welcome.
 
 If you have any additions (including new datasets or filling in details on existing entries), changes, or comments, please reach out. Thank you!
 
 --- 
 
-### Contents
+## Contents
 
 Skip to: [Weather](#weather), [Misc.](#misc)
 
 --- 
 
-### Weather
+## Environmental science
+
+---
+
+### Climate and Weather
 
 - [PRISM](https://prism.oregonstate.edu/) - Gridded weather data, including temperature and precipitation
   - Years: 1981-present (daily), 1895-present (monthly)
 - [NOAA](https://www.ncdc.noaa.gov/cdo-web/datatools/findstation) - Weather station data
 - [Open-Meteo](https://open-meteo.com/) - weather API
   - Some of data goes back to 1940. Forecast data from 2021. Free version of API is rate limited (300k/month)
+
+---
+
+### Land cover 
+
+- Example data
+
+---
+
+## Ecology
+
+
+## Ocean science
+
+
+
+## Misc.
+
+- [Gapminder](https://www.gapminder.org/data/) - various longitudinal, global datasets covering things like life expectancy, GDP, fertility, life expectancy, and child mortality
+- [Our World in Data](https://ourworldindata.org/search) - many datasets covering many topics such as health, education, environment, war, demographics, and democracy. Generally global in nature
 
 ---
