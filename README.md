@@ -34,6 +34,14 @@ Skip to: [Weather](#weather), [Misc.](#misc)
 
 ## Ecology
 
+### Population and biodiversity time series
+
+- [BioTime](https://biotime.st-andrews.ac.uk/)
+  - Years: 1890-present; Access: Public
+  - Global database of biodiversity records
+  - From [BioTIME 2.0: Expanding and Improving a Database of Biodiversity Time Series. Global Ecol Biogeogr. 2025; 34(5):e70003](https://doi.org/10.1111/geb.70003)
+
+---
 
 ## Ocean science
 
