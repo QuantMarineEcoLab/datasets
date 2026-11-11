@@ -78,5 +78,6 @@ Skip to: [Weather](#weather), [Weather](#weather), [Ocean science](#oceanscience
 - [Google dataset search tool](https://datasetsearch.research.google.com/)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [Social science datasets](https://github.com/toddrjones/datasets)
+- [R package compiling neuroscience data](https://cran.r-project.org/web/packages/NeuroDataSets/index.html)
 
 ---
